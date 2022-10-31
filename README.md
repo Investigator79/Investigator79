@@ -50,18 +50,14 @@ My typical Data workflow involves:
 <br>
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Investigator79&show_icons=true&theme=radical)
 
 
+- 🔭 I’m currently working on
+- check this link to see my portfolio
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning  Deep learning though:
+- Fast.ai course by Howard Jerry
+- Pytorch + lightingai By 
+- 
 - 📫 How to reach me: techagombecho@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
