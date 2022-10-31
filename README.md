@@ -50,6 +50,9 @@ My typical Data workflow involves:
 <br>
 <hr>
 
+## Mbecho Stats
+![Mbecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Investigator&show_icons=true&theme=radical)
+
 
 - 🌱 I’m currently learning  Deep learning though:
 - Fast.ai course by Howard Jerry
