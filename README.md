@@ -3,7 +3,7 @@
 **`Analytcal Engineer (Data Developer/Data Architect)`**
 
 
-I am a full-stack analytical with an MSc in Applied Mathematics and two bachelor in Applied Math and Financial Economics.. I have worked as a Statistician, as well as a consultant developing data driven products both in R Stack(flexdasboard, plotly, shiny) and Python programing languages and deploying them using Docker and AWS EC2. Moreover, I have worked as a junior cloud architect, designing and implementing cloud infrastures using some of the tools and platforms below.
+I am a full-stack analytical person with an MSc in Applied Mathematics and two bachelor in Applied Math and Financial Economics.. I have worked as a Statistician, as well as a consultant developing data driven products both in R Stack(flexdasboard, plotly, shiny) and Python programing languages and deploying them using Docker and AWS EC2. Moreover, I have worked as a junior cloud architect, designing and implementing cloud infrastures using some of the tools and platforms below.
 
 My typical Data workflow involves:
 - Business Science Project Management Methodolgy: Integration of key concepts to connect data science to ROI
