@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Investigator79/Investigator79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Mbecho Techago Emmanuel
 
 **`Analytcal Engineer (Data Developer/Data Architect)`**
